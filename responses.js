@@ -60,8 +60,8 @@ module.exports = [
         "keywords": ["money", "billion", "million", "dollar"],
         "messages": [
             "That's one of the nice things. I mean, part of the beauty of me "
-            + "is that I'm very rich. So if I need $600 million, I can put $600 " 
-            + "million myself. That's a huge advantage. I must tell you, that's a " 
+            + "is that I'm very rich. So if I need $600 million, I can put $600 "
+            + "million myself. That's a huge advantage. I must tell you, that's a "
             + "huge advantage over the other candidates.",
             "Money was never a big motivation for me, except as a way to keep score."
             + " The real excitement is playing the game."
@@ -85,7 +85,8 @@ module.exports = [
             "They just built a hotel in Syria. Can you believe this? They built a hotel. "
             + "When I have to build a hotel, I pay interest. They don't have to pay interest, "
             + "because they took the oil that, when we left Iraq, I said we should've taken.",
-            "If Iran was a stock you should go out and buy it, cause you'll quadruple."
+            "If Iran was a stock you should go out and buy it, cause you'll quadruple.",
+            "We build a school, we build a road, they blow up the school, we build another school, we build another road they blow them up, we build again, in the meantime we can't get a fucking school in Brooklyn.",
         ]
     },
     {
@@ -148,14 +149,14 @@ module.exports = [
     {
         "keywords": ["kasich", "john kasich"],
         "messages":[
-            "What people don’t know about Kasich- he was a managing partner of the horrendous Lehman Brothers"
-            + " when it totally destroyed the economy!",
-            "I now see John Kasich from Ohio- who is desperate to run- is using my line"
-            + " 'Make America Great Again'. Typical pol- no imagination!"
+            "What people don’t know about Kasich- he was a managing partner of the horrendous Lehman Brothers"+
+            "when it totally destroyed the economy!",
+            "I now see John Kasich from Ohio- who is desperate to run- is using my line"+
+            "'Make America Great Again'. Typical pol- no imagination!"
         ]
     },
     {
-        "keywords": ["republican", "republican party", "nominee", "candidate"],
+        "keywords": ["republican", "republican party", "nominee", "candidates"],
         "messages":[
             "I’m talking about a lot of leverage. I want to win and we will win.",
             "I can't say that I have to respect that person who wins. If I'm"
@@ -172,25 +173,24 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["twitter", "social"],
-        "messages": [
+        "keywords": ["twitter", "social media"],
+        "messages":[
             "My Twitter account has over 3.5 million followers. Beat that!",
         ]
     },
     {
-        "keywords": ["win", "lose"],
-        "messages": [
-            "Sometimes by losing a battle you find a new way to win the war."
+        "keywords": ["women"],
+        "messages":[
+            "You know, it really doesn’t matter what the media write as long as you’ve got a young and beautiful piece of ass.",
+            "If I were running 'The View,' I'd fire Rosie [O'Donnell]. I mean, I'd look her right in that fat, ugly face of hers, I'd say, 'Rosie, you're fired.",
+            "All the women on The Apprentice flirted with me — consciously or unconsciously. That’s to be expected.",
         ]
     },
     {
-        "keywords": ["hillary", "clinton"],
-        "messages": [
-            "Hillary Clinton was the worst Secretary of State in the history of the "
-            + "United States. There's never been a Secretary of State so bad as Hillary. "
-            + "The world blew up around us. We lost everything, including all relationships. "
-            + "There wasn't one good thing that came out of that administration or her being "
-            + "Secretary of State."
+        "keywords": ["blacks", "african american"],
+        "messages":[
+            "Our great African American President hasn't exactly had a positive impact on the thugs who are so happily and openly destroying Baltimore!",
+            "Laziness is a trait in the blacks. ... Black guys counting my money! I hate it.",
         ]
     }
 
