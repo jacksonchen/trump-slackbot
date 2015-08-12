@@ -88,7 +88,8 @@ module.exports = [
             "They just built a hotel in Syria. Can you believe this? They built a hotel. "
             + "When I have to build a hotel, I pay interest. They don't have to pay interest, "
             + "because they took the oil that, when we left Iraq, I said we should've taken.",
-            "If Iran was a stock you should go out and buy it, cause you'll quadruple."
+            "If Iran was a stock you should go out and buy it, cause you'll quadruple.",
+            "We build a school, we build a road, they blow up the school, we build another school, we build another road they blow them up, we build again, in the meantime we can't get a fucking school in Brooklyn.",
         ]
     },
     {
@@ -178,6 +179,20 @@ module.exports = [
         "keywords": ["twitter", "social media"],
         "measured":[
             "My Twitter account has over 3.5 million followers. Beat that!",
+        ]
+    },
+    {
+        "keywords": ["women"],
+        "measured":[
+            "You know, it really doesn’t matter what the media write as long as you’ve got a young and beautiful piece of ass.",
+            "If I were running 'The View,' I'd fire Rosie [O'Donnell]. I mean, I'd look her right in that fat, ugly face of hers, I'd say, 'Rosie, you're fired.",
+        ]
+    },
+    {
+        "keywords": ["blacks", "african american"],
+        "measured":[
+            "Our great African American President hasn't exactly had a positive impact on the thugs who are so happily and openly destroying Baltimore!",
+            "Laziness is a trait in the blacks. ... Black guys counting my money! I hate it.",
         ]
     }
 ];
