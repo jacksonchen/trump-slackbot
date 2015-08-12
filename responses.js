@@ -186,6 +186,7 @@ module.exports = [
         "measured":[
             "You know, it really doesn’t matter what the media write as long as you’ve got a young and beautiful piece of ass.",
             "If I were running 'The View,' I'd fire Rosie [O'Donnell]. I mean, I'd look her right in that fat, ugly face of hers, I'd say, 'Rosie, you're fired.",
+            "All the women on The Apprentice flirted with me — consciously or unconsciously. That’s to be expected.",
         ]
     },
     {
