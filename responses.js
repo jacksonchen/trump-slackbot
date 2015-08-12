@@ -137,13 +137,13 @@ module.exports = [
     },
     {
         "keywords": ["rosie", "o'donell"],
-        "measured":[
+        "messages":[
             "Rosie is crude, rude, obnoxious and dumb - other than that I like her very much!"
         ]
     },
     {
         "keywords": ["bush", "george bush"],
-        "measured":[
+        "messages":[
           "You mean George Bush sends our soldiers into combat, they are severely wounded, and then he" +
           "wants $120,000 to make a boring speech to them?",
           "You can’t have Bush. The last thing we need is another Bush"
@@ -151,7 +151,7 @@ module.exports = [
     },
     {
         "keywords": ["kasich", "john kasich"],
-        "measured":[
+        "messages":[
             "What people don’t know about Kasich- he was a managing partner of the horrendous Lehman Brothers"+
             "when it totally destroyed the economy!",
             "I now see John Kasich from Ohio- who is desperate to run- is using my line"+
@@ -160,7 +160,7 @@ module.exports = [
     },
     {
         "keywords": ["republican", "republican party", "nominee", "candidates"],
-        "measured":[
+        "messages":[
             "I’m talking about a lot of leverage. I want to win and we will win.",
             "I can't say that I have to respect that person who wins. If I'm"+
             "the nominee, I pledge I will not run as an independent.",
@@ -171,19 +171,19 @@ module.exports = [
     },
     {
         "keywords": ["free trade", "trade"],
-        "measured":[
+        "messages":[
             "Free trade is terrible. Free trade can be wonderful if you have smart people. But we have stupid people.",
         ]
     },
     {
         "keywords": ["twitter", "social media"],
-        "measured":[
+        "messages":[
             "My Twitter account has over 3.5 million followers. Beat that!",
         ]
     },
     {
         "keywords": ["women"],
-        "measured":[
+        "messages":[
             "You know, it really doesn’t matter what the media write as long as you’ve got a young and beautiful piece of ass.",
             "If I were running 'The View,' I'd fire Rosie [O'Donnell]. I mean, I'd look her right in that fat, ugly face of hers, I'd say, 'Rosie, you're fired.",
             "All the women on The Apprentice flirted with me — consciously or unconsciously. That’s to be expected.",
@@ -191,7 +191,7 @@ module.exports = [
     },
     {
         "keywords": ["blacks", "african american"],
-        "measured":[
+        "messages":[
             "Our great African American President hasn't exactly had a positive impact on the thugs who are so happily and openly destroying Baltimore!",
             "Laziness is a trait in the blacks. ... Black guys counting my money! I hate it.",
         ]
