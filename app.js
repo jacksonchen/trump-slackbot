@@ -28,7 +28,7 @@ https.get("https://slack.com/api/rtm.start?token=" + SLACK_TOKEN, function(res) 
         slackId = rtm.self.id;
         console.log("Logging into " + rtm.team.name + "'s Slack...");
         ws.on('open', function() {
-            goTrump(rtm.team.name, rtm.team.prefs.default_channels[1]);
+            goTrump(rtm.team.name, rtm.team.prefs.default_channels[0]);
         });
     })
 });
